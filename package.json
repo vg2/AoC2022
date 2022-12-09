@@ -1,0 +1,22 @@
+{
+  "name": "aoc2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vg2/AoC2022.git"
+  },
+  "author": "Vishen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vg2/AoC2022/issues"
+  },
+  "homepage": "https://github.com/vg2/AoC2022#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
